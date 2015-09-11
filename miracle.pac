@@ -2,7 +2,7 @@
 //qq:940319007
 
 //var proxy = "PROXY server01.pac.itzmx.com:25;";
-var proxy = "PROXY 45.63.56.173:25;";
+var proxy = "PROXY server01.pac.itzmx.com:25;";
 
 var domains = {
   "abc.xyz": 1,
